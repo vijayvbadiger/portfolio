@@ -1,2 +1,8 @@
 .DS_Store
 node_modules/
+
+# Large files and media
+images/profile.jpg
+images/projects/*.jpg
+images/projects/*.png
+assets/*.pdf
